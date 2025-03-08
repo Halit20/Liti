@@ -94,11 +94,10 @@ img {
 }
 
 .hero-avatar img {
-  width: 320px;
-  height: 320px;
-  border-radius: 50%;
-}
 
+  border-radius: 10%;
+}
+/* 
 @media (max-width: 1199.98px) {
   .hero-avatar img {
     width: 100%;
@@ -118,7 +117,7 @@ img {
     width: 240px;
     height: 240px;
   }
-}
+} */
 
 .section-box {
   padding: 0 20px;
